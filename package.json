@@ -3,6 +3,7 @@
   "author": "dayblox",
   "description": "Bun + TypeScript starter",
   "devDependencies": {
+    "axios": "^1.6.7",
     "bun-types": "latest"
   },
   "scripts": {
